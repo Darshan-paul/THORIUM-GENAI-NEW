@@ -1,14 +1,14 @@
-# thorium-genai
+thorium-genai
 GenAI for Thorium: prototype for OpenAI x NxtWave
 
-# ⚡ Thorium GenAI – India's Clean Energy Future
+⚡ Thorium GenAI – India's Clean Energy Future
 
 Thorium GenAI is a **Generative AI-powered toolkit** built for the **OpenAI x NxtWave Buildathon**.  
 It showcases how **AI + Thorium-based clean energy** can accelerate India's transition to a carbon-free future.
 
 ---
 
-## 🌟 Features
+🌟 Features
 
 - 🔬 **Knowledge Assistant** – Ask questions about thorium, reactors, and clean energy.  
 - ⚛️ **Reactor Simulator (Digital Twin)** – Explore how thorium reactors perform under different conditions.  
@@ -16,7 +16,7 @@ It showcases how **AI + Thorium-based clean energy** can accelerate India's tran
 
 ---
 
-## 🏗️ Tech Stack
+🏗️ Tech Stack
 
 - **Frontend / UI**: Streamlit  
 - **AI Models**: OpenAI GPT (via `openai` Python library)  
